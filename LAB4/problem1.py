@@ -1,3 +1,4 @@
+#1)Count how many vowels are there in a string. Accept the string from the user.
 str=input("Enter the string:")
 
 vovels="aeiouAEIOU"
